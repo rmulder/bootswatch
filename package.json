@@ -2,12 +2,12 @@
   "name": "bootswatch",
   "description": "Bootswatch is a collection of themes for Bootstrap.",
   "version": "3.3.6",
-  "author": "Thomas Park",
-  "homepage": "http://bootswatch.com",
+  "author": "Robert Mulder",
+  "homepage": "http://rmulder.us",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/thomaspark/bootswatch.git"
+    "url": "https://github.com/rmulder/bootswatch.git"
   },
   "engines": {
     "node": ">= 0.10.0"
